@@ -1,0 +1,9 @@
+h3 {
+    text-align: center;
+}
+
+#mapInfo {
+    width: 330px; 
+    float: right; 
+    transform: translateY(44.92px);
+}

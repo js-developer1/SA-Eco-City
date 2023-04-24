@@ -32,6 +32,7 @@ nav {
 }
 
 ul {
+    padding: 0px;
     margin: 10px;
     list-style-type: none;
     width: 100vw;
@@ -40,7 +41,7 @@ ul {
     justify-content: space-evenly;
 }
 
-h1 {
+h1, h2, h3 {
     text-align: center;
 }
 
