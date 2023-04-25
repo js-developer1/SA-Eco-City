@@ -7,3 +7,8 @@ h3 {
     float: right; 
     transform: translateY(44.92px);
 }
+
+#geography {
+    float: left;
+    transform: translateY(150px);
+}
