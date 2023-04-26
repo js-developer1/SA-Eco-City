@@ -58,6 +58,11 @@ li:hover {
     background-color: #08005a;
 }
 
+a {
+    color: var(--beige);
+    text-decoration: none;
+}
+
 #main {
     margin: 40px 0px 0px 0px;
     background-color: var(--buff);
