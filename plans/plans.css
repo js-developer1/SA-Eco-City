@@ -1,0 +1,20 @@
+:root {
+    --spaceCadet: #151E3F;
+    --oxfordBlue: #030027;
+    --beige: #F2F3D9;
+    --buff: #DC9E82;
+    --oldRose: #C16E70;
+}
+
+#main {
+    height: 1550px;
+}
+
+#button {
+    background-color: var(--oldRose);
+    width: 250px;
+    height: 25px;
+    text-align: center;
+    line-height: 25px;
+    margin: auto;
+}
