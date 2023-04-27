@@ -17,4 +17,9 @@
     text-align: center;
     line-height: 25px;
     margin: auto;
+    transition: all 1s;
+}
+
+#button:hover {
+    background-color: #945556;
 }

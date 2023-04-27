@@ -12,3 +12,7 @@ h3 {
     float: left;
     transform: translateY(150px);
 }
+
+#main {
+    height: 875px;
+}
