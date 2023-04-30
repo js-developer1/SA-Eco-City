@@ -1,0 +1,16 @@
+p {
+    padding: 0 100px;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+#main {
+    height: 1575px;
+}
+
+#logo {
+    width: 40%;
+}

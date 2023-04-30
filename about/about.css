@@ -1,18 +1,21 @@
-h3 {
-    text-align: center;
-}
-
 #mapInfo {
-    width: 330px; 
-    float: right; 
-    transform: translateY(44.92px);
+    width: 1000px;
+    margin: auto;
 }
 
 #geography {
-    float: left;
+    width: 1000px;
+    margin: auto;
     transform: translateY(150px);
 }
 
 #main {
-    height: 875px;
+    height: 1675px;
+}
+
+#iframe {
+    width: 80%;
+    height: 622px;
+    margin: 0 auto;
+    display: block;
 }
