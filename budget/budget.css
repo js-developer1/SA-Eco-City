@@ -1,0 +1,21 @@
+:root {
+    --oldRose: #C16E70;
+}
+
+table {
+    width: 90%;
+    margin: auto;
+}
+
+table, tr, th, td {
+    border: 4px solid var(--oldRose);
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+}
+
+th {
+    background-color: #c48485;
+}
