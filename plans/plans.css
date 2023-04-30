@@ -6,6 +6,11 @@
     --oldRose: #C16E70;
 }
 
+img {
+    margin: auto;
+    display: block;
+}
+
 #main {
     height: 1550px;
 }
