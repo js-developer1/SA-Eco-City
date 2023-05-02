@@ -6,32 +6,37 @@
     --oldRose: #C16E70;
 }
 
+img {
+    margin: 0 auto;
+    display: block;
+}
 
 .collapsible {
     background-color: var(--buff);
     color: var(--beige);
     cursor: pointer;
+    margin: 10px auto 0 auto;
     padding: 18px;
-    width: 100%;
+    width: 80%;
     border: none;
-    text-align: left;
+    text-align: center;
     outline: none;
-    font-size: 15px;
+    display: block;
     transition: all 1s;
+    border-bottom: 10px solid var(--oldRose);
 }
 
-.collapsible > h2 {
-    border: 4px solid var(--oldRose);
-}
-
-.collapsible:active, .collapsible:hover {
-    background-color: #ad7d67;
+.active, .collapsible:hover {
+    background-color: #dc9482;
 }
 
 .content {
-    padding: 0 18px;
+    width: calc(80% - 18px * 2);
     height: 0px;
+    padding: 0 18px;
+    margin: 0 auto;
+    display: block;
     overflow: hidden;
-    background-color: var(--oldRose);
+    background-color: #c16e6e;
     transition: all 1s;
 }
