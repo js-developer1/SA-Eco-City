@@ -19,7 +19,3 @@ th, td {
 th {
     background-color: #c48485;
 }
-
-#main {
-    height: calc(100vh + 180px);
-}

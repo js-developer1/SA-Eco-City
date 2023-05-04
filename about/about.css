@@ -9,10 +9,6 @@
     transform: translateY(150px);
 }
 
-#main {
-    height: 1675px;
-}
-
 #iframe {
     width: 80%;
     height: 622px;

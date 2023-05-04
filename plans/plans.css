@@ -6,10 +6,6 @@
     --oldRose: #C16E70;
 }
 
-#main {
-    height: 1550px;
-}
-
 #button {
     background-color: var(--oldRose);
     width: 250px;

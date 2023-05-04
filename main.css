@@ -90,5 +90,4 @@ img {
     border: 20px solid var(--buff);
     background-color: var(--buff);
     width: calc(100vw - 57px);
-    height: calc(100vh);
 }
