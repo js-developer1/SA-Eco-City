@@ -1,0 +1,24 @@
+:root {
+    --spaceCadet: #151E3F;
+    --oxfordBlue: #030027;
+    --beige: #F2F3D9;
+    --buff: #DC9E82;
+    --oldRose: #C16E70;
+}
+
+#button {
+    background-color: var(--oldRose);
+    border: 0px;
+    color: var(--beige);
+    width: 250px;
+    height: 25px;
+    text-align: center;
+    line-height: 25px;
+    margin: auto;
+    padding: 10px;
+    transition: all 1s;
+}
+
+#button:hover {
+    background-color: #945556;
+}
