@@ -53,7 +53,7 @@ nav {
     transition: all 1s;
 }
 
-ul {
+nav > ul {
     padding: 0px;
     list-style-type: none;
     width: 100vw;
@@ -64,14 +64,14 @@ ul {
 }
 
 
-li {
+a > li {
     padding: 5px;
     opacity: 0.5;
     transition: all 1s;
     background-color: inherit;
 }
 
-li:hover {
+a > li:hover {
     opacity: 1;
     background-color: var(--spaceCadet);
 }
